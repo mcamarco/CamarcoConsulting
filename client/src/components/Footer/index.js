@@ -1,5 +1,3 @@
-// COPIED FROM MOD 21 ACT 06
-
 import React from 'react';
 import { useLocation, useNavigate } from 'react-router-dom';
 

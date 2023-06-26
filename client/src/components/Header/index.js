@@ -15,8 +15,9 @@ const Header = () => {
       <Container>
         <div className='d-flex align-items-center justify-content-between'>
           <Link to='/'>
-            <img src={logo} alt='logo graphic Camarco Consulting Innovating Solutions' style={{ maxWidth: '150px' }} />
+            <img src={logo} alt='logo graphic Camarco Consulting Innovating Solutions' style={{ maxWidth: '175px' }} className='rounded-circle' />
           </Link>
+
           <div className='text-center'>
             <h1 className='display-4 m-0'>Camarco Consulting LLC</h1>
             <Navbar expand='lg' className='justify-content-center mt-2'>
