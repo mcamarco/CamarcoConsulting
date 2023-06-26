@@ -1,9 +1,5 @@
 # Camarco Consulting LLC
 
-## Description
-
-The website being designed for Camarco Consulting LLC is a MERN stack single-page application that serves as an interactive platform for clients to access consulting services and solutions. The website aims to showcase Camarco Consulting's expertise, industry knowledge, and commitment to helping businesses achieve sustainable growth. It provides a user-friendly interface where clients can explore services, learn about the company's capabilities, and engage with the consulting team.
-
 ## Table of Contents
 
 1. [Description](#description)
@@ -13,6 +9,10 @@ The website being designed for Camarco Consulting LLC is a MERN stack single-pag
 5. [Contributing](#contributing)
 6. [Tests](#tests)
 7. [Questions](#questions)
+
+## Description
+
+The website being designed for Camarco Consulting LLC is a MERN stack single-page application that serves as an interactive platform for clients to access consulting services and solutions. The website aims to showcase Camarco Consulting's expertise, industry knowledge, and commitment to helping businesses achieve sustainable growth. It provides a user-friendly interface where clients can explore services, learn about the company's capabilities, and engage with the consulting team.
 
 ## Installation Instructions
 
