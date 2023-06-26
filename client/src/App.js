@@ -18,7 +18,7 @@ import Signup from './pages/Signup';
 import Login from './pages/Login';
 import Services from './pages/Services';
 import Contact from './pages/Contact';
-import Casestudies from './pages/Casestudies';
+// import Casestudies from './pages/Casestudies';
 import Profile from './pages/Profile';
 import Header from './components/Header';
 import Footer from './components/Footer';
@@ -68,10 +68,10 @@ function App() {
                  path='/contact'
                  element={<Contact />}
               />
-              <Route
+              {/* <Route
                  path='/casestudies'
                  element={<Casestudies />}
-              />
+              /> */}
               <Route
                  path='/services'
                  element={<Services />}
