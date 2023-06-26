@@ -2,66 +2,52 @@
 
 ## Table of Contents
 
-1. [Description](#description)
-2. [Installation](#installation)
-3. [Usage](#usage)
-4. [License](#license)
-5. [Contributing](#contributing)
-6. [Tests](#tests)
-7. [Questions](#questions)
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributions](#contributions)
+- [Testing](#tests)
+- [Questions](#questions)
+- [Deployment](#deployment)
 
 ## Description
 
-The website being designed for Camarco Consulting LLC is a MERN stack single-page application that serves as an interactive platform for clients to access consulting services and solutions. The website aims to showcase Camarco Consulting's expertise, industry knowledge, and commitment to helping businesses achieve sustainable growth. It provides a user-friendly interface where clients can explore services, learn about the company's capabilities, and engage with the consulting team.
+Camarco Consulting LLC's website is a MERN stack single-page application that serves as a professional and interactive platform for clients to explore consulting services and solutions. It showcases the company's expertise, industry knowledge, and dedication to helping businesses achieve sustainable growth. The user-friendly interface facilitates clients in discovering services, understanding the company's capabilities, and engaging with the consulting team.
 
-## Installation Instructions
+This project was initially created during the Penn LPS Coding Bootcamp for Project 3, Full-Stack MERN Application, with active contributions from Adam Baacke, Brooke White, and Tim Gold. Since then, the project has been closed, and it is now continuously updated and maintained by Mickey Camarco.
 
-To install the necessary dependencies, navigate to the project root directory and run the following command:
+## Installation
 
-`npm install`
+To set up the development environment and install necessary dependencies, navigate to the project's root directory and execute the following command:
 
+```
+npm install
+```
 
 ## Usage Information
 
 To start the application, run the following command:
-
-`npm start`
-
-The application will be accessible at http://localhost:3000.
-
-## License
-
-This project is not licensed.
-
-## Contribution Guidelines
-
-Contributions to this project are currently not open.
-
-## Test Instructions
-
-To run the tests for this application, use the following command:
 ```
 npm start
 ```
-
 The application will be accessible at http://localhost:3000.
 
 
-## Contribution Guidelines
+## Contributions
 
 Contributions to this project are currently not open.
 
-## Test Instructions
+## Testing
 
 To run the tests for this application, use the following command:
 ```
 npm test
 ```
 
-## Deployed Link
+## Deployment
 [Camarco Consulting LLC](http://www.camarcoconsulting.com)
 
 
 ## Questions
 
-If you have any questions, please reach out to us at mickey@camarcoconsulting.com
+If you have any questions, please reach out to us via [email](mickey@camarcoconsulting.com).
