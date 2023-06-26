@@ -40,15 +40,12 @@ Contributions to this project are currently not open.
 ## Test Instructions
 
 To run the tests for this application, use the following command:
-
-`npm start`
-
+```
+npm start
+```
 
 The application will be accessible at http://localhost:3000.
 
-## License
-
-This project is not licensed.
 
 ## Contribution Guidelines
 
@@ -57,11 +54,12 @@ Contributions to this project are currently not open.
 ## Test Instructions
 
 To run the tests for this application, use the following command:
-
-`npm test`
+```
+npm test
+```
 
 ## Deployed Link
-https://desolate-reef-58395.herokuapp.com/
+[Camarco Consulting LLC](http://www.camarcoconsulting.com)
 
 
 ## Questions
